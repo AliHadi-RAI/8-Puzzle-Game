@@ -71,9 +71,6 @@ This project uses the A* search algorithm, which combines the cost to reach a no
 
 Contributions are welcome! Please open issues or pull requests for improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
